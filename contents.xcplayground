@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='macos' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Untitled Page 2'/>
+        <page name='KAKAO Rank Search'/>
+        <page name='KAKAO'/>
+        <page name='KAKAO Move Block'/>
+        <page name='KAKAO Circuit'/>
+        <page name='KAKAO DIA Shopping'/>
+        <page name='KAKAO Cookie'/>
+        <page name='KAKAO Chart Update'/>
+        <page name='Card Pair'/>
+        <page name='KAKAO LINKRANK'/>
+        <page name='KAKAO ToothBrush'/>
+        <page name='KAKAO BuildFrame'/>
+        <page name='KAKAO BuildFrame2'/>
+        <page name='KAKAO Hotel'/>
+        <page name='KAKAO Move Block 2'/>
+        <page name='KAKAO Music Search'/>
+        <page name='KAKAO Auto Complete'/>
+        <page name='KAKAO SDM'/>
+        <page name='Terrain Edit'/>
+        <page name='KAKAO MUZI Eating'/>
+        <page name='KAKAO RoadFind'/>
+        <page name='KAKAO Escape Mage'/>
+        <page name='KAKAO Traffic'/>
+        <page name='KAKAO Adv'/>
+        <page name='TIPSTOWN Word Puzzle'/>
+        <page name='KAKAO Stepping Rocks'/>
+        <page name='Challenge Zero'/>
+        <page name='Count Number of Cases'/>
+        <page name='Beauty String'/>
+        <page name='Challenge Light Cycle'/>
+        <page name='Graph Room Count'/>
+        <page name='MOVE 110'/>
+        <page name='Challenge Gold&amp;Silver'/>
+        <page name='KAKAO CAVE'/>
+        <page name='KAKAO BLOCK GAME'/>
+        <page name='KAKAO Card Pair'/>
+        <page name='KAKAO Card Pair 2'/>
+        <page name='Weekly'/>
+        <page name='Zero Sum'/>
+        <page name='Weekly-3week'/>
+        <page name='Challenge ball'/>
+        <page name='RPG &amp; Query'/>
+        <page name='NQueen'/>
+        <page name='KAKAO TAXI'/>
+        <page name='Tree Trio Middle'/>
+        <page name='TTO'/>
+        <page name='Count Row'/>
+        <page name='KAKAO Move Base'/>
+        <page name='Star Array'/>
+        <page name='KAKAO Move Base 2'/>
+        <page name='dungeons'/>
+        <page name='sumMinu'/>
+        <page name='Challenge Anti Cell'/>
+        <page name='211104 CodeReview'/>
+        <page name='211105 CodeReview'/>
+        <page name='KAKAO Escape Mage 2'/>
+        <page name='Challenge Anti Cell 2'/>
+        <page name='KAKAO Split Class'/>
+        <page name='Query Set'/>
+        <page name='aa'/>
+        <page name='bb'/>
+        <page name='a'/>
+    </pages>
+</playground>

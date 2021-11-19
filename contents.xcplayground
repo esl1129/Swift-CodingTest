@@ -63,5 +63,6 @@
         <page name='aa'/>
         <page name='bb'/>
         <page name='a'/>
+        <page name='query'/>
     </pages>
 </playground>

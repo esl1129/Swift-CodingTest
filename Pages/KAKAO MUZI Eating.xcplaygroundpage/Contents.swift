@@ -1,7 +1,7 @@
 import Foundation
 
 func solution(_ food_times:[Int], _ k:Int64) -> Int {
-    guard food_times.reduce(0, +) > k else {
+    if food_times.reduce(0, +) <= k {
         return -1
     }
     
@@ -13,17 +13,17 @@ func solution(_ food_times:[Int], _ k:Int64) -> Int {
     }
     food.sort{$0.value < $1.value}
 
+    let size = food.count
     var before = 0
     var now = 0
     
-    while !food[now..<food.endIndex].isEmpty &&
-            k >= (food[now].value - before) * food[now..<food.endIndex].count {
+    while size > now && k >= (food[now].value - before) * (size-now) {
         if food[now].value != before {
-            k -= (food[now].value - before) * food[now..<food.endIndex].count
+            k -= (food[now].value - before) * (size-now)
             before = food[now].value
         }
         now += 1
     }
-    food = food[now..<food.endIndex].sorted{$0.key < $1.key}
+    food = food[now..<size].sorted{$0.key < $1.key}
     return food[k % food.count].key
 }

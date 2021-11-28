@@ -1,11 +1,11 @@
 import Foundation
 
-var isVisited: [[Int]] = []
+var isVisited: Set<[Int]> = []
 var arr: [[Int]] = []
 var answer = 0
 func solution(_ board:[[Int]]) -> Int {
     arr.append([0,0,1])
-    isVisited.append([0,0,1])
+    isVisited.insert([0,0,1])
     
     func check(_ x: Int, _ y: Int, _ dir: Int) -> Bool{
         if !isVisited.contains([x,y,dir]){

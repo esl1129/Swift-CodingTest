@@ -2,10 +2,12 @@
 Algorithm 풀이
 
 
-사이트 : Programmers
+#사이트 : Programmers
+#사용 언어 : Swift
 
-사용 언어 : Swift
 
 순위 : 9
+
 점수 : 1712
+
 문제 수 : 218

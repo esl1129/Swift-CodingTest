@@ -1,6 +1,6 @@
 # Swift-CodingTest
+Algorithm 풀이
 
 
-Programmers site Algorithm 풀이
-
-Only Swift
+사이트 : Programmers
+사용 언어 : Swift

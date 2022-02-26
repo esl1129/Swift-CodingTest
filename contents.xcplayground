@@ -64,5 +64,6 @@
         <page name='bb'/>
         <page name='a'/>
         <page name='query'/>
+        <page name='KAKAO_2022_1'/>
     </pages>
 </playground>
